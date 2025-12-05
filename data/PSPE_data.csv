@@ -1,0 +1,4 @@
+﻿Sample,Type,Protein adsorption / ng cm-2,Protein MW / kDa,Protein Charge (pI),Predicted Zeta (mV),Predicted CA (deg),Thickness (nm),SMILES
+PSBMA,Ovalbumin,79,44.7,6.9,-2.581928,24.55853099,8.2,C=C(C)C(=O)OCC[N+](C)(C)CCCS(=O)(=O)[O-]
+PSBMA,Lysozyme,8.7,14,11,-2.628445,24.61849818,6,C=C(C)C(=O)OCC[N+](C)(C)CCCS(=O)(=O)[O-]
+

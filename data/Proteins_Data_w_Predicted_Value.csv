@@ -1,0 +1,102 @@
+﻿Ref,Sample,Type,Protein adsorption / ng cm-2,Protein MW / kDa,Protein Charge (pI),Predicted Zeta (mV),Predicted CA (deg),Thickness (nm),SMILES
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PBMA ,BSA,236.6,66.5,4.7,-18.940662,81.8446148,11.962,C=C(C)C(=O)OCCCC
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PHEMA ,BSA,36.3,66.5,4.7,-12.367573,47.56197349,16.822,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PmOEGMA,BSA,16.9,66.5,4.7,-8.504514,51.628971,17.9,C=C(C)C(=O)OCCOCCOCCOCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMEA ,BSA,4.8,66.5,4.7,-2.4740336,53.04858971,19.78895833,C=CC(=O)OCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PAEMA ,BSA,454.4,66.5,4.7,26.610718,44.12879224,9.2225,C=C(C)C(=O)OCC[NH3+].[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PCBMA ,BSA,16.8,66.5,4.7,-8.906415,19.46224107,19.38733333,C=C(C)C(=O)OCC[N+](C)(C)CCC(=O)[O-]
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMPC ,BSA,0,66.5,4.7,-1.2724454,12.31850893,12.49,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMPS,BSA,30.1,66.5,4.7,-51.27758,13.96648194,18.93,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,BSA,540.4,66.5,4.7,29.687649,20.68649027,7.3,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,BSA,642.5,66.5,4.7,43.05105,20.76245473,11.8,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,BSA,678.5,66.5,4.7,39.607033,20.67168302,6.2,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,BSA,681.5,66.5,4.7,44.641705,20.89647337,17.6,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://www.sciencedirect.com/science/article/pii/S0927776517305544?via%3Dihub,PmOEGMA,BSA,10,66.5,4.7,-8.700059,50.54834982,6.8,C=C(C)C(=O)OCCOCCOCCOCCOC
+https://www.sciencedirect.com/science/article/pii/S0927776517305544?via%3Dihub,PMPC ,BSA,0,66.5,4.7,-8.6514435,12.01372055,7.7,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://www.tandfonline.com/doi/full/10.1080/09205063.2019.1710900,PAEMA ,BSA,642,66.5,4.7,24.585434,44.09321156,5.3,C=C(C)C(=O)OCC[NH3+].[Cl-]
+https://www.tandfonline.com/doi/full/10.1080/09205063.2019.1710900,PMAA,BSA,380,66.5,4.7,-34.07377,31.86992648,3.3,C=C(C)C(=O)OCCNC(=O)CCC(=O)O
+https://pubs.acs.org/doi/full/10.1021/acsami.6b01213,PMPC ,BSA,0,66.5,4.7,-2.4862142,11.9086381,5.9,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/full/10.1021/acsami.6b01213,PAEMA ,BSA,662,66.5,4.7,24.470623,44.09075795,5,C=C(C)C(=O)OCC[NH3+].[Cl-]
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMPC,BSA,0,66.5,4.7,-4.5875216,13.15318186,23.5,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMTAC,BSA,221,66.5,4.7,47.89375,20.78059906,12.7,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMPS,BSA,0,66.5,4.7,-57.269745,14.15228477,23.3,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+https://pubs.acs.org/doi/full/10.1021/la404981k,PHEMA,BSA,0,66.5,4.7,-9.486631,47.14341843,13.4,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/la404981k,PBMA,BSA,87,66.5,4.7,-22.589005,83.25756005,21.4,C=C(C)C(=O)OCCCC
+https://pubs.acs.org/doi/full/10.1021/acsami.5b01138,PMPC ,BSA,18.7,66.5,4.7,-3.0784194,11.68588726,1.74,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/full/10.1021/acsami.5b01138,PNIPAAm,BSA,240.7,66.5,4.7,-6.2330294,56.36161706,0.63,C=CC(=O)NC(C)C
+https://pubs.acs.org/doi/full/10.1021/acsami.5b01138,PtBA,BSA,244.7,66.5,4.7,-5.7734995,80.01122505,1.82,CC(C)(C)OC(=O)C=C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PMPC,BSA,19.5,66.5,4.7,-3.0784194,11.68388291,1.7,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PCMB,BSA,0.6,66.5,4.7,-8.985689,15.01823017,8.1,C=C(C)C(=O)OCC[N+](C)(C)CC(=O)[O-]
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PCMB,BSA,1.8,66.5,4.7,-11.373198,14.84950269,4.6,C=C(C)C(=O)OCC[N+](C)(C)CC(=O)[O-]
+https://pubs.acs.org/doi/10.1021/la302738s,PmOEGMA,BSA,2.5,66.5,4.7,-8.934604,51.83500685,20,C=C(C)C(=O)OCCOCCOCCOCCOC
+https://pubs.acs.org/doi/10.1021/la302738s,PHEMA,BSA,3.3,66.5,4.7,-12.175052,47.9549804,20,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/10.1021/la302738s,PMOEMA,BSA,76.4,66.5,4.7,-9.032789,60.93783729,20,C=C(C)C(=O)OCCOC
+https://pubs.acs.org/doi/10.1021/la204542e,PAA,BSA,10.7,66.5,4.7,-4.711626,47.71226313,9.5,O=C(O)C=C
+https://pubs.acs.org/doi/10.1021/la204542e,PAA,BSA,35.6,66.5,4.7,-7.177438,47.19183977,4.82,O=C(O)C=C
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PHEMA,BSA,4.1,66.5,4.7,-12.596323,45.87173209,2.7,C=C(C)C(=O)OCCO
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PHEMA,BSA,1,66.5,4.7,-12.596323,45.84856838,2.5,C=C(C)C(=O)OCCO
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PHEMA,BSA,1,66.5,4.7,-10.963921,47.02209064,12.4,C=C(C)C(=O)OCCO
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PHEA,BSA,19.1,66.5,4.7,-11.849382,35.15959508,1.7,C=CC(=O)OCCO
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PHEA,BSA,1,66.5,4.7,-11.849382,35.21766941,2.3,C=CC(=O)OCCO
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PHEA,BSA,1,66.5,4.7,-8.858882,36.0869434,10.9,C=CC(=O)OCCO
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PPEGMA,BSA,1,66.5,4.7,-18.752552,41.39838714,2.3,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+https://www.sciencedirect.com/science/article/pii/S0927776515000338,PPEGMA,BSA,0.9,66.5,4.7,-14.275342,42.01753854,12.9,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.6b02708,PDEGMA,BSA,13.1,66.5,4.7,-17.417318,41.55060828,5,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.6b02708,PDEGMA,BSA,7.2,66.5,4.7,-17.605581,41.84254528,10,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.6b02708,PDEGMA,BSA,1.3,66.5,4.7,-17.476349,42.08495288,14,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202101717,PNMEP,BSA,6.6,66.5,4.7,-12.517403,25.85778109,50,C=C(C)C(=O)OCCN1CCCC1=O
+Exp,PEMA,BSA,400.6,66.5,4.7,-9.967725,74.52604702,10.3,O=C(OCC)C(C)=C
+Exp,PIPMA,BSA,391.5,66.5,4.7,-29.94392,82.06970218,15.2,O=C(OC(C)C)C(C)=C
+Exp,PDEGMA,BSA,8.9,66.5,4.7,-18.314512,42.47498491,20.2,C=C(C)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+Exp,PMMA,BSA,288.6,66.5,4.7,-10.28216,65.85544594,14,O=C(OC)C(C)=C
+Exp,PMOEMA,BSA,204.5,66.5,4.7,-11.198844,61.40074408,24.6,O=C(OCCOC)C(C)=C
+Exp,PDMAEMA,BSA,992,66.5,4.7,16.319553,16.0009027,13.8,C=C(C)C(=O)OCC[N+](C)C.[Cl-]
+Exp,PDIPAEMA,BSA,396.5,66.5,4.7,7.166369,65.9019757,19.5,CC(C)[N+](CCOC(=O)C(C)=C)C(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PBMA ,Lys,309.8,14,11,-18.940662,81.8446148,11.962,C=C(C)C(=O)OCCCC
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PHEMA ,Lys,30,14,11,-12.367573,47.56197349,16.822,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PmOEGMA,Lys,21.5,14,11,-8.504514,51.628971,17.9,C=C(C)C(=O)OCCOCCOCCOCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMEA ,Lys,28.8,14,11,-2.4740336,53.04858971,19.78895833,C=CC(=O)OCCOC
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PAEMA ,Lys,93.3,14,11,26.610718,44.12879224,9.2225,C=C(C)C(=O)OCC[NH3+].[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PCBMA ,Lys,13.9,14,11,-8.906415,19.46224107,19.38733333,C=C(C)C(=O)OCC[N+](C)(C)CCC(=O)[O-]
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMPC ,Lys,0.8,14,11,-1.2724454,12.31850893,12.49,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5b04186,PMPS,Lys,998.3,14,11,-51.27758,13.96648194,18.93,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,Lys,71.4,14,11,29.687649,20.68649027,7.3,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,Lys,45.3,14,11,43.05105,20.76245473,11.8,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,Lys,242.5,14,11,39.607033,20.67168302,6.2,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c02472,PMTAC,Lys,30.7,14,11,44.641705,20.89647337,17.6,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.7b00198,PHEMA,Lys,138.4,14,11,-15.430634,48.25423063,22.4,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.7b00198,PHEMA,Lys,56.9,14,11,-9.8282795,50.50632499,40.1,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.7b00198,PHEMA,Lys,61.4,14,11,-9.9939165,56.79425601,90.7,C=C(C)C(=O)OCCO
+https://www.tandfonline.com/doi/full/10.1080/09205063.2019.1710900,PAEMA ,Lys,61,14,11,24.585434,44.09321156,5.3,C=C(C)C(=O)OCC[NH3+].[Cl-]
+10.1016/j.cjche.2021.04.016,PMPS,Lys,262.6,14,11,-45.23415,13.519557,1.54,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+10.1016/j.cjche.2021.04.016,PMPS,Lys,329.2,14,11,-45.23415,13.54182636,3.21,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+10.1016/j.cjche.2021.04.016,PMPS,Lys,264.3,14,11,-45.23415,13.55169251,3.86,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMPC,Lys,0,14,11,-4.5875216,13.15318186,23.5,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMTAC,Lys,36,14,11,47.89375,20.78059906,12.7,C=C(C)C(=O)OCC[N+](C)(C)C.[Cl-]
+https://pubs.acs.org/doi/full/10.1021/la404981k,PMPS,Lys,620,14,11,-57.269745,14.15228477,23.3,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+https://pubs.acs.org/doi/full/10.1021/la404981k,PHEMA,Lys,0,14,11,-9.486631,47.14341843,13.4,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/la404981k,PBMA,Lys,182,14,11,-22.589005,83.25756005,21.4,C=C(C)C(=O)OCCCC
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PMPC,Lys,10.2,14,11,-3.0784194,11.64094088,0.83,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PMPC,Lys,6.8,14,11,-3.0784194,11.68388291,1.7,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PMPC,Lys,2.7,14,11,-2.4862142,11.9086381,5.9,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PMPC,Lys,2.9,14,11,-1.3832238,12.27237313,11.8,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PMPC,Lys,2.5,14,11,-5.6737423,13.11968992,23.1,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PSBMA,Lys,46.7,14,11,-17.130354,24.67626457,4,C=C(C)C(=O)OCC[N+](C)(C)CCCS(=O)(=O)[O-]
+https://pubs.acs.org/doi/10.1021/acsami.4c01401,PSBMA,Lys,58,14,11,-9.830339,59.26997867,3.8,C=C(C)C(=O)OCCOC
+https://pubs.acs.org/doi/10.1021/la302738s,PmOEGMA,Lys,1.6,14,11,-8.934604,51.83500685,20,C=C(C)C(=O)OCCOCCOCCOCCOC
+https://pubs.acs.org/doi/10.1021/la302738s,PHEMA,Lys,1.8,14,11,-12.175052,47.9549804,20,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/10.1021/la302738s,PMOEMA,Lys,78.4,14,11,-9.032789,60.93783729,20,C=C(C)C(=O)OCCOC
+https://pubs.acs.org/doi/10.1021/la204542e,PAA,Lys,35,14,11,-4.711626,47.71226313,9.5,O=C(O)C=C
+https://pubs.acs.org/doi/10.1021/la204542e,PAA,Lys,14.2,14,11,-7.177438,47.19183977,4.82,O=C(O)C=C
+https://pubs.acs.org/doi/10.1021/la204542e,PAA,Lys,27.6,14,11,-7.177438,46.872762,1.9,O=C(O)C=C
+Exp,PDMAEMA,Lys,88.8,14,11,16.319553,16.0009027,13.8,C=C(C)C(=O)OCC[N+](C)C.[Cl-]
+Exp,PDEAMEA,Lys,157.8,14,11,8.157993,39.72595663,16.6,CC[N+](CC)CCOC(=O)C(C)=C.[Cl-]
+Exp,PDIPAEMA,Lys,208.4,14,11,7.166369,65.9019757,19.5,CC(C)[N+](CCOC(=O)C(C)=C)C(C)C.[Cl-]
+Nagasawa,PHEMA ,Fib,41.3,340,5.8,-12.367573,47.56197349,16.822,C=C(C)C(=O)OCCO
+Nagasawa,PmOEGMA,Fib,16.4,340,5.8,-8.504514,51.628971,17.9,C=C(C)C(=O)OCCOCCOCCOCCOC
+Nagasawa,PCBMA ,Fib,4,340,5.8,-8.906415,19.46224107,19.38733333,C=C(C)C(=O)OCC[N+](C)(C)CCC(=O)[O-]
+Nagasawa,PMPC ,Fib,0,340,5.8,-1.2724454,12.31850893,12.49,C=C(C)C(=O)OCCOP(=O)([O-])OCC[N+](C)(C)C
+Nagasawa,PMPS,Fib,254,340,5.8,-51.27758,13.96648194,18.93,C=C(C)C(=O)OCCCS(=O)(=O)[O-].[K+]
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.7b00198,PHEMA,Fib,567.2,340,5.8,-15.430634,48.25423063,22.4,C=C(C)C(=O)OCCO
+https://pubs.acs.org/doi/full/10.1021/acs.analchem.7b00198,PHEMA,Fib,125.1,340,5.8,-9.8282795,50.50632499,40.1,C=C(C)C(=O)OCCO
+https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202101717,PNMEP,Fib,63,340,5.8,-12.517403,25.85778109,50,C=C(C)C(=O)OCCN1CCCC1=O
