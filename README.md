@@ -1,4 +1,4 @@
-#BB-EIT: A Generalized Prediction Model for Protein Adsorption on Polymer Brushes Using Augmented Chemical Embeddings
+# BB-EIT: A Generalized Prediction Model for Protein Adsorption on Polymer Brushes Using Augmented Chemical Embeddings
 
 **Accepted by:** *ACS Applied Materials & Interfaces*
 
