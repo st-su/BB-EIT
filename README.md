@@ -47,7 +47,7 @@ pip install -r requirements.txt
 BB-EIT builds on the pretrained [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1)
 model, which is downloaded automatically from the Hugging Face Hub on first use.
 
-## Inverse Design
+## Inverse Design (Working)
 
 `inverse_design.py` searches for polymer SMILES that achieve a target protein
 adsorption amount under a fixed set of protein/surface descriptors (pI, coating
