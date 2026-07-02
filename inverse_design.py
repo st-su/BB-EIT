@@ -12,7 +12,7 @@ Two strategies are exposed:
 
 Usage (CLI)
 -----------
-python reverse_design.py \
+python inverse_design.py \
     --strategy genetic \
     --target 50.0 \
     --pi 5.5 --thickness 20 --ca 40 --zeta -10 --mw 66 \

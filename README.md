@@ -24,3 +24,52 @@ DOI: [10.1021/acs.jpcb.3c08422][jpcb]
 
 [jpcb]: https://pubs.acs.org/doi/10.1021/acs.jpcb.3c08422
 
+
+## Repository Structure
+
+| Path | Description |
+| --- | --- |
+| `BB-EIT.ipynb` | Main notebook: training and evaluation of the BB-EIT model. |
+| `BB-EIT_Feature_Importance.ipynb` | SHAP-based feature-importance analysis. |
+| `BB-EIT_UMAP_FC1.ipynb` | UMAP visualization of the learned FC1 embedding space. |
+| `inverse_design.py` | Inverse design of polymer SMILES for a target protein adsorption amount. |
+| `src/` | Model definition (`model.py`), dataset, and data utilities. |
+| `data/` | Training, external validation, and noise-dependency datasets. |
+| `models/` | Pretrained 5-fold ensemble weights (`R2D2_All_All_fold_{0..4}.pth`). |
+| `requirements.txt` | Python dependencies. |
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+BB-EIT builds on the pretrained [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1)
+model, which is downloaded automatically from the Hugging Face Hub on first use.
+
+## Inverse Design
+
+`inverse_design.py` searches for polymer SMILES that achieve a target protein
+adsorption amount under a fixed set of protein/surface descriptors (pI, coating
+thickness, contact angle, zeta potential, and protein MW), scoring candidates
+with the pretrained BB-EIT ensemble. Two strategies are available:
+
+- **`genetic`** — a genetic algorithm over discrete SMILES strings. Slower, but
+  yields directly valid, evaluatable molecules.
+- **`latent_gradient`** — Adam-based optimization in the concatenated feature
+  space (ChemBERTa CLS embedding + protein features). Fast; produces a latent
+  vector that must be decoded via nearest-neighbour retrieval or a trained VAE
+  decoder.
+
+Example:
+
+```bash
+python inverse_design.py \
+    --strategy genetic \
+    --target 50.0 \
+    --pi 5.5 --thickness 20 --ca 40 --zeta -10 --mw 66 \
+    --population 100 --generations 200 \
+    --seed_smiles seeds.txt \
+    --output results.csv
+```
+
