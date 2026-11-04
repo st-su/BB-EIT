@@ -2,7 +2,7 @@
 
 **A generalized model for predicting protein adsorption on polymer brushes using augmented chemical embeddings.**
 
-*ACS Applied Materials & Interfaces*, ASAP. DOI: [10.1021/acsami.5c25223](https://pubs.acs.org/doi/10.1021/acsami.5c25223)
+*ACS Applied Materials & Interfaces* (2026) 18 (14): 20976–20988.. DOI: [10.1021/acsami.5c25223](https://pubs.acs.org/doi/10.1021/acsami.5c25223)
 
 BB-EIT (Bio-interface BERT Encoder for Interaction Translation) embeds monomer SMILES with the pretrained [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) and combines them with surface and protein descriptors to predict adsorbed protein amount (ng/cm²), generalizing to unseen polymers and proteins.
 
