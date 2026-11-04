@@ -7,3 +7,5 @@ matplotlib>=3.7
 seaborn>=0.12
 transformers>=4.3
 shap>=0.42
+rdkit>=2023.9
+mcp>=2.0

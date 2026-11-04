@@ -34,7 +34,7 @@ from rdkit import Chem
 from rdkit.Chem import AllChem
 from transformers import AutoTokenizer, AutoModel
 
-from model import (
+from src.model import (
     ChemBERTRegressor,
     ensemble_predictor_for_features,
     load_ensemble_models,
